@@ -4,9 +4,9 @@ Repository for the semester project of the course Natural Language Processing at
 
 # Team Members
 
-Arghya Bhattacharya
-Sounak Pradhan
-Tanmai Khanna
+- Arghya Bhattacharya
+- Sounak Pradhan
+- Tanmai Khanna
 
 
 # Description
